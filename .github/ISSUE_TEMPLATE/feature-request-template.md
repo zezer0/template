@@ -6,10 +6,10 @@ labels: 'Status: To Do, Priority: Medium, Type: Feature/Function, Type: Feature/
 assignees: ''
 ---
 
-# 추가/개선 필요 요소
+## Description
 
-# 추가/개선 필요 이유
+## Todo
+- []:
+- []:
 
-# 상세 요구 사항
-
-# 스크린샷
+## ETC
