@@ -9,7 +9,7 @@ assignees: ''
 ## Description
 
 ## Todo
-- []:todo
-- []:todo
+- []todo
+- []todo
 
 ## ETC
